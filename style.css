@@ -1,0 +1,27 @@
+body {
+    margin-top: 60px;
+  }
+  .jumbotron{
+    background-color: #dee6f4;
+  }
+  h1,blockquote {
+    font-family:'Playfair Display';
+  }
+  h2,h3,li{
+    font-family:"PT Sans";
+  }
+  #title {
+    text-align: center;
+  }
+  #img-caption {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  strong {
+    font-size: 1.2em;
+  }
+  li {
+    margin-bottom: 2%;
+  }
